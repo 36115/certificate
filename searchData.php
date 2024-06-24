@@ -7,9 +7,13 @@
     or fname LIKE '%$search%' 
     or lname LIKE '%$search%' 
     or concat(fname, lname) LIKE '%$search%' 
+    or concat(prefix, fname, lname) LIKE '%$search%' 
     or concat(fname, ' ', lname) LIKE '%$search%' 
+    or concat(prefix, fname, ' ', lname) LIKE '%$search%' 
     or concat(lname, fname) LIKE '%$search%' 
+    or concat(prefix, lname, fname) LIKE '%$search%' 
     or concat(lname, ' ', fname) LIKE '%$search%' 
+    or concat(prefix, lname, ' ', fname) LIKE '%$search%' 
     or class LIKE '%$search%' 
     or id LIKE '%$search%' 
     ORDER BY prefix DESC, id ASC";
