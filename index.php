@@ -31,7 +31,7 @@
 <body>
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="#"><img src="https://www.bpk.ac.th/bpknews/assets/images/img/logobaner.png" width="300" height="70" class="d-inline-block align-top" alt=""></a>
+            <a class="navbar-brand" href="https://www.bpk.ac.th/bpknews"><img src="https://www.bpk.ac.th/bpknews/assets/images/img/logobaner.png" width="300" height="70" class="d-inline-block align-top" alt=""></a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle Navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
