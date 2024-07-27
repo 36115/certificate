@@ -48,7 +48,7 @@
     <div class="container py-5">
         <div class="mt-3">
             <div class="pt-5 my-5 text-center">
-                <h3>รายชื่อนักเรียนชั้นมัธยมศึกษาปีที่ 6 ห้อง 10</h3>
+                <h3>รายชื่อนักเรียนชั้นมัธยมศึกษาปีที่ 6 ห้อง 10 โรงเรียนบางปะกอกวิทยาคม</h3>
             </div>
            <form action="searchData.php" method="post">
                 <div class="pt-2 text-center">
