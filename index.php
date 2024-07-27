@@ -15,7 +15,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <title>โปรแกรมดาวน์โหลดเกียรติบัตรออนไลน์</title>
+    <title>รายชื่อนักเรียนชั้นมัธยมศึกษาปีที่ 6 ห้อง 10</title>
     
     <!-- Font Support -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -48,7 +48,7 @@
     <div class="container py-5">
         <div class="mt-3">
             <div class="pt-5 my-5 text-center">
-                <h3>โปรแกรมดาวน์โหลดเกียรติบัตรออนไลน์ โรงเรียนบางปะกอกวิทยาคม</h3>
+                <h3>รายชื่อนักเรียนชั้นมัธยมศึกษาปีที่ 6 ห้อง 10</h3>
             </div>
            <form action="searchData.php" method="post">
                 <div class="pt-2 text-center">
